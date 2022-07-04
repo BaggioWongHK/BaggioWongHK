@@ -14,7 +14,14 @@ Here is the list.
 
 ## Table of Principles
 
-#preamble
+1. [Meta](#a-meta-back-to-top)
+2. [Top Principles](#b-top-principles-back-to-top)
+3. [Thinking](#c-thinking-back-to-top)
+4. [Work and Culture](#d-work-and-culture-individuals-back-to-top)
+5. [Software Systems](#e-software-systems-back-to-top)
+6. [Process and Organization](#f-process-and-organization-group-back-to-top)
+7. [People and Leadership](#g-people-and-leadership-back-to-top)
+8. [Quotes](#h-quotes-back-to-top)
 
 ## A. Meta ([Back to top](#preamble))
 
