@@ -8,7 +8,7 @@ It also serves the dual purpose of helping others with whom I collaborate unders
 
 I hope these will help others as they have helped me in the past. 
 
-# Principles
+# Operating Principles
 
 Here is the list. 
 
