@@ -12,12 +12,16 @@ I hope these will help others as they have helped me in the past.
 
 Here is the list. 
 
-## A. Meta
+## Table of Principles
+
+#preamble
+
+## A. Meta ([Back to top](#preamble))
 
 1. Conflicts or logical inconsistencies between these principles are reconciled case-by-case. 
 2. This list should be revised periodically through cycles of aim-plan-act-review. 
 
-## B. Top Principles
+## B. Top Principles ([Back to top](#preamble))
 
 1. Everything we do at work should revolve around one focus - getting results. 
 4. Don’t underestimate the importance of knowledge preservation, expansion and organization.
@@ -25,7 +29,7 @@ Here is the list.
 6. Constant vigilance, memento mori. 
 7. Above all else, prioritize people.
 
-## C. Thinking
+## C. Thinking ([Back to top](#preamble))
 
 1. If in doubt, start from First Principles to fill in the missing gaps in our understanding. 
 9. Strive to get to a level where we can operate at the highest levels of
@@ -53,7 +57,7 @@ Here is the list.
 28. Attaining simplicity is exceedingly complex, but it is generally worth it. 
 29. Meritocracy over autocracy or democracy.  
 
-## D. Work and Culture (Individuals)
+## D. Work and Culture (Individuals) ([Back to top](#preamble))
 
 1. Lack of knowledge and experience can be remedied by doing our due diligence. 
 30. Everything we do at work is a work artifact (e.g. email, meetings, code reviews, diagrams, etc.)
@@ -98,7 +102,7 @@ Here is the list.
     15. Code review comments focused on style, syntax preferences;
     16. Lack of empathy.
 
-## E. Software Systems
+## E. Software Systems ([Back to top](#preamble))
 
 1. Avoid adopting tools we don’t understand. If we’d like to adopt them, understand them. 
 2. Resist giving in to the Shiny Object Syndrome - novelty does not justify adoption. 
@@ -168,7 +172,7 @@ Here is the list.
     10. Monitoring ops metrics / business metrics for anomalies after dial up
     11. Experiment analysis and dial up conclusion
 
-## F. Process and Organization (Group)
+## F. Process and Organization (Group) ([Back to top](#preamble))
 
 1. Add at least 30% padding to time estimates.
 2. Backlogs need to be groomed daily to prioritize, add details, dedupe and close out tasks.
@@ -214,7 +218,7 @@ Here is the list.
 32. Prefer a T-shaped over I-shaped operational style and avoid silos. 
 33. Schedule regular reviews and after incidents to reflect and revise our SOPs. 
 
-## G. People and Leadership
+## G. People and Leadership ([Back to top](#preamble))
 
 1. What leaders should strive to do
     1. Elucidate and embellish upon a vision that inspires.
@@ -247,13 +251,13 @@ Here is the list.
 14. An interviewing template / rubric can help with a consistent understanding of “The Bar”. 
 16. Be nice to each other, it's usually worth it. 
 
-## H. Quotes
+## H. Quotes ([Back to top](#preamble))
 
 1. “Premature organization is the root of all evil.” - Donald Knuth
 2. “Il semble que la perfection soit atteinte non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retrancher.” - Antoine de Saint-Exupéry
 3. “I think it's far more important to write well than most people realize. Writing doesn't just communicate ideas; it generates them. If you're bad at writing and don't like to do it, you'll miss out on most of the ideas writing would have generated.” - Paul Graham
 
-## Acknowledgments
+## Acknowledgments ([Back to top](#preamble))
 
 1. [Mental Models](https://fs.blog/mental-models/#general_thinking_concepts)
 2. [Fundamentals of Software Architecture: An Engineering Approach (Mark Richards, Neal Ford)](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
