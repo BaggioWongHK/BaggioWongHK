@@ -4,7 +4,7 @@ Organizations generally have high level tenets around which culture is shaped an
 
 “Operating Principles” attempts to fill this gap by organizing a list of guiding principles that have helped provide clarity on how to deal with various situations, and I am convinced that writing them down on paper will further reinforce the consistent application of such principles across a variety of situations. 
 
-It also serves the dual purpose of helping others with whom I collaborate understand the manner I tend to operate, in order to settle disagreements and resolve conflicts more easily. I don't claim to be perfect in my application of these principles, but strive to do better everyday. 
+It also serves the dual purpose of helping others with whom I collaborate understand the manner I tend to operate, in order to settle disagreements and resolve conflicts more easily. I don't claim to be perfect in my application of these principles, but strive to do better everyday. 😊
 
 I hope these will help others as they have helped me in the past. 
 
