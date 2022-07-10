@@ -108,6 +108,8 @@ Here is the list.
     14. Repeated actions that reflect “that’s not my job”;
     15. Code review comments focused on style, syntax preferences;
     16. Lack of empathy.
+12. Emails, texting, speaking have different rules regarding etiquette.
+13. Adding an emoji after a message (1) lightens the mood; (2) doubles as a read receipt.
 
 ## E. Software Systems ([Back to top](#preamble))
 
