@@ -110,6 +110,7 @@ Here is the list.
     16. Lack of empathy.
 12. Emails, texting, speaking have different rules regarding etiquette.
 13. Adding an emoji after a message (1) lightens the mood; (2) doubles as a read receipt.
+14. Ensure the use of terminology and jargon is consistent among the group. 
 
 ## E. Software Systems ([Back to top](#preamble))
 
