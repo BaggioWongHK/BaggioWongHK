@@ -180,6 +180,7 @@ Here is the list.
     9. Updating ops metrics / business metrics dashboards
     10. Monitoring ops metrics / business metrics for anomalies after dial up
     11. Experiment analysis and dial up conclusion
+28. Resist the temptation to code until requirements are 100% clear.
 
 ## F. Process and Organization (Group) ([Back to top](#preamble))
 
