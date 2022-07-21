@@ -182,6 +182,10 @@ Here is the list.
     10. Monitoring ops metrics / business metrics for anomalies after dial up
     11. Experiment analysis and dial up conclusion
 28. Resist the temptation to code until requirements are 100% clear.
+    1. This doesn't block work on the parts are clear as long as they are sufficiently isolated from the unclear. 
+    2. Implement in a way that allows for flexibility to change. Abstractions, composition, SOLID, interfaces can help.
+    3. Execute in a way that allows to defer important architectural decisions until we have more information.
+29. We share the responsibility for work artifacts, designs, code changes, contracts we approve. 
 
 ## F. Process and Organization (Group) ([Back to top](#preamble))
 
