@@ -111,6 +111,18 @@ Here is the list.
 12. Emails, texting, speaking have different rules regarding etiquette.
 13. Adding an emoji after a message (1) lightens the mood; (2) doubles as a read receipt.
 14. Ensure the use of terminology and jargon is consistent among the group. 
+15. Results loop: Goal > Reason > Viability > Plan > Execute > Clean up > Reflection
+16. Regular weekly reflections can help make sense of chaos and deal with overwhelm. 
+17. When everything went perfectly but we still failed, to understand why, reflect upon
+  a. Environment (uncontrollable factors)
+  b. Timing (great execution, bad timing)
+  c. People (lack of excitement, unified spirit to push through)
+  d. Fundamentals (mismatch in ability and goals)
+  e. Leverage (not possible without catalysts and help)
+  f. Inception (whole project wasn't necessary)
+  g. Aptitude (mismatch in talent with challenges)
+  h. Unknowns (gaps in understanding of world tied to project)
+  i. Uninformed (parts of whole landscape missing from our radar)
 
 ## E. Software Systems ([Back to top](#preamble))
 
