@@ -63,6 +63,7 @@ Here is the list.
 27. Unless complexity can be justified under intense scrutiny, prefer simplicity. 
 28. Attaining simplicity is exceedingly complex, but it is generally worth it. 
 29. Meritocracy over autocracy or democracy.  
+30. Function over form unless function derives from, or is tied to form.
 
 ## D. Work and Culture (Individuals) ([Back to top](#preamble))
 
