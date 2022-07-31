@@ -124,6 +124,7 @@ Here is the list.
     1. Aptitude (mismatch in talent with challenges)
     1. Unknowns (gaps in understanding of world tied to project)
     1. Uninformed (parts of whole landscape missing from our radar)
+18. Balance between doing our due diligence and analysis paralysis.
 
 ## E. Software Systems ([Back to top](#preamble))
 
