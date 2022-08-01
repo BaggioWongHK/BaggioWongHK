@@ -302,6 +302,11 @@ Here is the list.
 12. [High Five Test](https://high5test.com/)
 13. [16 personalities](https://www.16personalities.com/)
 
+## Useful Resources
+
+1. Code Review Guidlines from Michael Lynch ([Part 1](https://mtlynch.io/human-code-reviews-1), [Part 2](https://mtlynch.io/human-code-reviews-2/), [Code author tips](https://mtlynch.io/code-review-love/))
+2. Google's Code Review Guidelines ([Speed](https://google.github.io/eng-practices/review/reviewer/speed.html), [Standards](https://google.github.io/eng-practices/review/reviewer/standard.html), [Cliffnotes](https://google.github.io/eng-practices/review/))
+
 <!---
 BaggioWongHK/BaggioWongHK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
