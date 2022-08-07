@@ -246,6 +246,7 @@ Here is the list.
 31. Establish checks and balances to govern how we work. 
 32. Prefer a T-shaped over I-shaped operational style and avoid silos. 
 33. Schedule regular reviews and after incidents to reflect and revise our SOPs. 
+34. Reserve at least 10% of headcount perennially for OE/EE initiatives. (Oncall doesn't count.)
 
 ## G. People and Leadership ([Back to top](#preamble))
 
