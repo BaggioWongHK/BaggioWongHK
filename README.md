@@ -125,6 +125,9 @@ Here is the list.
     1. Unknowns (gaps in understanding of world tied to project)
     1. Uninformed (parts of whole landscape missing from our radar)
 18. Balance between doing our due diligence and analysis paralysis.
+1. Pushing through isn't the only solution. Circumvention can be useful too.
+1. Technical solutions aren't necessarily the best path forward. 
+1. Defining work not done is often as important as work to do. 
 
 ## E. Software Systems ([Back to top](#preamble))
 
