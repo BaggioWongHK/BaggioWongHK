@@ -207,38 +207,39 @@ Here is the list.
 ## F. Process and Organization (Group) ([Back to top](#preamble))
 
 1. Add at least 30% padding to time estimates.
-2. Backlogs need to be groomed daily to prioritize, add details, dedupe and close out tasks.
-3. A Scrum team requires a Product Owner and Scrum Master, no exceptions. 
-4. Writing the AC, implementation and QA should be done separately to avoid bias. 
-5. Start with relative points and work backwards to figure out time-points mapping.
-6. Velocity varies based on team members, nature of tasks, holidays, KTLO, etc. 
-7. Task updates should be shared daily to uncover blockers quickly.
-8. Four documents form the core of the Scrum practice - omit at our own risk
+2. If estimates involve configuration, accept it's impossible to estimate. 
+3. Backlogs need to be groomed daily to prioritize, add details, dedupe and close out tasks.
+4. A Scrum team requires a Product Owner and Scrum Master, no exceptions. 
+5. Writing the AC, implementation and QA should be done separately to avoid bias. 
+6. Start with relative points and work backwards to figure out time-points mapping.
+7. Velocity varies based on team members, nature of tasks, holidays, KTLO, etc. 
+8. Task updates should be shared daily to uncover blockers quickly.
+9. Four documents form the core of the Scrum practice - omit at our own risk
     1. Definition of Ready
     10. Definition of Done
     11. Team Norms
     12. RAID log
-9. We should add tasks for 80% of a cadence; leave room to deal with “other stuff”.
-10. Resist the temptation to work on items outside of what’s planned (unless they’re done).
-11. Desk checks are essential to make the Dev-QA cycle go faster. 
-12. Encourage cross pollination by allowing members to self-assign tasks. 
-13. Avoid project based execution, because it festers the growth of silos. 
-14. If a task can’t be finished within a cadence, break it down so that it can. 
-15. Be inclusive in the meeting invite list, but encourage teammates to reject irrelevant ones. 
-16. Recurring issues should be pointed out even at the expense of repeating ad nauseam. 
-17. A good moderator plays a key role in helping to ward off [ignoratio elenchi](https://en.wikipedia.org/wiki/Irrelevant_conclusion). 
-18. Always assign a scribe in a meeting to take notes so absentees can review them. 
-19. Apply triple the vigilance when a project starts - decisions made then are often hard to reverse.
-20. Prefer rules-based governance over deferring to individuals’ standards.
-21. Split our time 80:20 between short term and long term initiatives.
-22. Organization and management need design reviews, just like software systems.
-23. Flat hierarchies promote collaboration; nested hierarchies introduce barriers. 
-24. Reject all meetings 
+10. We should add tasks for 80% of a cadence; leave room to deal with “other stuff”.
+11. Resist the temptation to work on items outside of what’s planned (unless they’re done).
+12. Desk checks are essential to make the Dev-QA cycle go faster. 
+13. Encourage cross pollination by allowing members to self-assign tasks. 
+14. Avoid project based execution, because it festers the growth of silos. 
+15. If a task can’t be finished within a cadence, break it down so that it can. 
+16. Be inclusive in the meeting invite list, but encourage teammates to reject irrelevant ones. 
+17. Recurring issues should be pointed out even at the expense of repeating ad nauseam. 
+18. A good moderator plays a key role in helping to ward off [ignoratio elenchi](https://en.wikipedia.org/wiki/Irrelevant_conclusion). 
+19. Always assign a scribe in a meeting to take notes so absentees can review them. 
+20. Apply triple the vigilance when a project starts - decisions made then are often hard to reverse.
+21. Prefer rules-based governance over deferring to individuals’ standards.
+22. Split our time 80:20 between short term and long term initiatives.
+23. Organization and management need design reviews, just like software systems.
+24. Flat hierarchies promote collaboration; nested hierarchies introduce barriers. 
+25. Reject all meetings 
     1. Without a prepared agenda; 
     2. Without at least 2 business days to review said agenda in advance;
     3. That invitees cannot meaningfully add value to;
     4. That are too long or too short. 
-25. Balance between the short, medium and long term. Examples include
+26. Balance between the short, medium and long term. Examples include
     1. Short: Sprint planning, execution, scope management, technical work
     2. Medium: Architecture, team process, retros, fixing ops inefficiencies, process issues
     4. Long: Extra curricular learning, codification of principles, axioms, exploring disciplines
