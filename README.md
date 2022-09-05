@@ -128,6 +128,7 @@ Here is the list.
 1. Pushing through isn't the only solution. Circumvention can be useful too.
 1. Technical solutions aren't necessarily the best path forward. 
 1. Defining work not done is often as important as work to do. 
+1. The best way to multitask is to not - complete a workstream before switching to the next. 
 
 ## E. Software Systems ([Back to top](#preamble))
 
@@ -203,6 +204,7 @@ Here is the list.
     2. Implement in a way that allows for flexibility to change. Abstractions, composition, SOLID, interfaces can help.
     3. Execute in a way that allows to defer important architectural decisions until we have more information.
 29. We share the responsibility for work artifacts, designs, code changes, contracts we approve. 
+30. Minimize unnecessary dependencies - they are hard to manage and even harder to remove. 
 
 ## F. Process and Organization (Group) ([Back to top](#preamble))
 
