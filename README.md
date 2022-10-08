@@ -129,6 +129,7 @@ Here is the list.
 1. Technical solutions aren't necessarily the best path forward. 
 1. Defining work not done is often as important as work to do. 
 1. The best way to multitask is to not - complete a workstream before switching to the next. 
+1. When reaching out, prefer talking to teammates one-on-one instead of in a group. 
 
 ## E. Software Systems ([Back to top](#preamble))
 
