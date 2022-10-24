@@ -64,6 +64,7 @@ Here is the list.
 28. Attaining simplicity is exceedingly complex, but it is generally worth it. 
 29. Meritocracy over autocracy or democracy.  
 30. Function over form unless function derives from, or is tied to form.
+31. However much time and effort we think we need to master something, we need to at least double the amount of actual practice. 
 
 ## D. Work and Culture (Individuals) ([Back to top](#preamble))
 
@@ -271,6 +272,7 @@ Here is the list.
     12. Establish mechanisms to maintain a prioritized list of work.
     13. Invest in minimizing drudgery at work.
     14. Promote a culture of growth and continual learning, actively invest in individual growth.
+    15. Be proactive, not reactive; stay ahead, not behind. 
 2. Laissez-faire is not the same thing as extricating oneself from the day-to-day as a leader. 
 3. “Years of experience” or “seniority” is not an accurate indicator of ability. 
 4. Leaders should ensure a balance between individual aspirations and business goals. 
@@ -287,6 +289,10 @@ Here is the list.
 13. We should pay extra attention to continually raise the hiring bar. 
 14. An interviewing template / rubric can help with a consistent understanding of “The Bar”. 
 16. Be nice to each other, it's usually worth it. 
+17. Don’t wait for people to come to us with problems, approach our teams.
+19. The team should not depend on a leader to function, but they should be better off in the presence of that leader. 
+20. Carry out regular retrospectives on different aspects of operations to review each pillar separately, then holistically as an entity. 
+21. Leaders should have unique personality traits, skills or charm that can win over people’s hearts. 
 
 ## H. Quotes ([Back to top](#preamble))
 
