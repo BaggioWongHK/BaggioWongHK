@@ -220,6 +220,8 @@ Here is the list.
     3. Execute in a way that allows to defer important architectural decisions until we have more information.
 29. We share the responsibility for work artifacts, designs, code changes, contracts we approve. 
 30. Minimize unnecessary dependencies - they are hard to manage and even harder to remove. 
+31. Organization engineering has a huge impact on the architecture - always keep Conway's Law in mind. 
+32. Enforcing the Principle of Least Privilege internally is a mechanism to reduce manual errors, not a sign of distrust. 
 
 ## F. Process and Organization (Group) ([Back to top](#preamble))
 
