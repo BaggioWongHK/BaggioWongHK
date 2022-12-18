@@ -135,6 +135,15 @@ Here is the list.
 1. Defining work not done is often as important as work to do. 
 1. The best way to multitask is to not - complete a workstream before switching to the next. 
 1. When reaching out, prefer talking to teammates one-on-one instead of in a group. 
+2. Be curious and keep learning. Learn what? Anything that allows you to create.
+3. If you could choose between learning and doing
+     1. If there are time constraints, that choice is gone - choose doing. 
+     1. Otherwise, learn so we can execute better and take more things into consideration.
+     1. Best yet is if we can learn *by* doing something new. 
+1. Approach problems systematically.
+     1. Always prefer a fix that minimizes or reduces manual effort and scales. 
+     1. If the timing isn’t right, at least create a complete solution and document it to action later. 
+1. Root cause problems. Instead of top down, try bottom up. Don’t settle until we reach a _real_ understanding of the problem. 
 
 ## E. Software Systems ([Back to top](#preamble))
 
@@ -259,6 +268,10 @@ Here is the list.
 32. Prefer a T-shaped over I-shaped operational style and avoid silos. 
 33. Schedule regular reviews and after incidents to reflect and revise our SOPs. 
 34. Reserve at least 10% of headcount perennially for OE/EE initiatives. (Oncall doesn't count.)
+35. Defining an "eye for quality" - Calibration to match the right configuration that appeals to most.
+36. Organization is the basis for KTLO and improved efficiency.
+    1. All businesses are based on organization “let’s make it easier and faster for others to access these resources". 
+37. Hire the right people. Define “the right people”? Hunger and empathy.
 
 ## G. People and Leadership ([Back to top](#preamble))
 
@@ -297,6 +310,7 @@ Here is the list.
 19. The team should not depend on a leader to function, but they should be better off in the presence of that leader. 
 20. Carry out regular retrospectives on different aspects of operations to review each pillar separately, then holistically as an entity. 
 21. Leaders should have unique personality traits, skills or charm that can win over people’s hearts. 
+22. Stay connected to the technical details, but don’t lose sight of the big picture 
 
 ## H. Quotes ([Back to top](#preamble))
 
