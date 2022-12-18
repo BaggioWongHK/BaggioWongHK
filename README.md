@@ -65,6 +65,10 @@ Here is the list.
 29. Meritocracy over autocracy or democracy.  
 30. Function over form unless function derives from, or is tied to form.
 31. However much time and effort we think we need to master something, we need to at least double the amount of actual practice. 
+32. The keys to scaling up a project and its operations
+    1. Configuration
+    2. Organization
+    3. Timing
 
 ## D. Work and Culture (Individuals) ([Back to top](#preamble))
 
