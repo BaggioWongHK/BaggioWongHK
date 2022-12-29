@@ -144,6 +144,10 @@ Here is the list.
      1. Always prefer a fix that minimizes or reduces manual effort and scales. 
      1. If the timing isn’t right, at least create a complete solution and document it to action later. 
 1. Root cause problems. Instead of top down, try bottom up. Don’t settle until we reach a _real_ understanding of the problem. 
+1. Three things to avoid talking about
+     1. Religion
+     1. Politics
+     1. Talking about people behind their backs
 
 ## E. Software Systems ([Back to top](#preamble))
 
