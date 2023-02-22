@@ -148,6 +148,10 @@ Here is the list.
      1. Religion
      1. Politics
      1. Talking about people behind their backs
+1. Before handing over something, three questions to ask
+     1. If we ourselves consume this work artifact one year from now, can we understand it?
+     2. Did we gather all the facts and exhaust all options? (Is it comprehensive?)
+     3. Is it in a state that someone doesn't have to tidy up before consuming this work artifact?
 
 ## E. Software Systems ([Back to top](#preamble))
 
