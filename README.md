@@ -349,6 +349,7 @@ Here is the list.
 1. [Code Review Guidlines from Michael Lynch](https://mtlynch.io/human-code-reviews-1) ([Part 1](https://mtlynch.io/human-code-reviews-1), [Part 2](https://mtlynch.io/human-code-reviews-2/), [Code author tips](https://mtlynch.io/code-review-love/))
 2. [Google's Code Review Guidelines](https://google.github.io/eng-practices/) ([Speed](https://google.github.io/eng-practices/review/reviewer/speed.html), [Standards](https://google.github.io/eng-practices/review/reviewer/standard.html), [Cliffnotes](https://google.github.io/eng-practices/review/))
 3. [Code Reviews at Google, Dr. McKayla](https://www.michaelagreiler.com/code-reviews-at-google/)
+4. [Software estimations are hard](https://substack.com/@alexzajac/note/c-65138349)
 
 <!---
 BaggioWongHK/BaggioWongHK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
