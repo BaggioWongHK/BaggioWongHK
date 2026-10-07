@@ -19,9 +19,10 @@ Here is the list.
 3. [Thinking](#c-thinking-back-to-top)
 4. [Work and Culture](#d-work-and-culture-individuals-back-to-top)
 5. [Software Systems](#e-software-systems-back-to-top)
-6. [Process and Organization](#f-process-and-organization-group-back-to-top)
-7. [People and Leadership](#g-people-and-leadership-back-to-top)
-8. [Quotes](#h-quotes-back-to-top)
+6. [Working with AI](#f-working-with-ai-back-to-top)
+7. [Process and Organization](#g-process-and-organization-group-back-to-top)
+8. [People and Leadership](#h-people-and-leadership-back-to-top)
+9. [Quotes](#i-quotes-back-to-top)
 
 ## A. Meta ([Back to top](#preamble))
 
@@ -231,7 +232,25 @@ Here is the list.
 31. Organization engineering has a huge impact on the architecture - always keep Conway's Law in mind. 
 32. Enforcing the Principle of Least Privilege internally is a mechanism to reduce manual errors, not a sign of distrust. 
 
-## F. Process and Organization (Group) ([Back to top](#preamble))
+## F. Working with AI ([Back to top](#preamble))
+
+1. AI is a judgment amplifier, not a judgment replacement. It scales our leverage and our mistakes with equal efficiency.
+2. Output from an AI is an input arriving from beyond the bounds of a system - it is untrusted until validated, same as any other (see E).
+3. The definition of good code does not change because a machine wrote it: correct, secure, readable, extensible - in that order.
+4. Code review matters *more* when the author is an AI, not less. Review its work as if we were doing the task ourselves.
+5. If we can't describe the problem and solution clearly in words, we cannot delegate it to an AI either - and it cannot rescue an unclear spec.
+6. The "why" must survive automation. An AI can produce the "how" at scale; owning the "why" remains ours.
+7. Prevention over cure applies to prompts: precise context and constraints up front beat correcting a confidently wrong answer after the fact.
+8. Correlation is not causation, and fluency is not correctness. A well-written answer is not evidence of a right one.
+9. Meritocracy over authority extends to models: weigh the argument, not the source. An AI's confidence is not an appeal we defer to (nor a new form of ipse dixit).
+10. Be radically transparent about what was AI-generated. Concealing it erodes trust and obscures where review effort is owed.
+11. "Merging code" is still not "done" - an AI shortening the path to a diff does not shorten deployment, monitoring, docs, or ownership.
+12. Resist Shiny Object Syndrome with AI tooling as with any other - novelty does not justify adoption; understand it before we depend on it.
+13. We remain accountable for everything we approve, regardless of how much of it a machine produced.
+14. Automate the drudgery, not the thinking. Delegate toil to AI so we reserve human effort for judgment, design and the bottom of the review pyramid.
+15. Guard against scaled harms: an AI will replicate our weak assumptions, stale context and silent failures faster than we can catch them - so verify.
+
+## G. Process and Organization (Group) ([Back to top](#preamble))
 
 1. Add at least 30% padding to time estimates.
 2. If estimates involve configuration, accept it's impossible to estimate. 
@@ -283,7 +302,7 @@ Here is the list.
     1. All businesses are based on organization “let’s make it easier and faster for others to access these resources". 
 37. Hire the right people. Define “the right people”? Hunger and empathy.
 
-## G. People and Leadership ([Back to top](#preamble))
+## H. People and Leadership ([Back to top](#preamble))
 
 1. What leaders should strive to do
     1. Elucidate and embellish upon a vision that inspires.
@@ -322,7 +341,7 @@ Here is the list.
 21. Leaders should have unique personality traits, skills or charm that can win over people’s hearts. 
 22. Stay connected to the technical details, but don’t lose sight of the big picture 
 
-## H. Quotes ([Back to top](#preamble))
+## I. Quotes ([Back to top](#preamble))
 
 1. “Premature organization is the root of all evil.” - Donald Knuth
 2. “Il semble que la perfection soit atteinte non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retrancher.” - Antoine de Saint-Exupéry
@@ -343,6 +362,7 @@ Here is the list.
 11. [The Gang of Four's Design Patterns](https://refactoring.guru/design-patterns/catalog)
 12. [High Five Test](https://high5test.com/)
 13. [16 personalities](https://www.16personalities.com/)
+14. Dylan Ross and Sam Hurst, for their contributions to [Working with AI](#f-working-with-ai-back-to-top)
 
 ## Useful Resources
 
